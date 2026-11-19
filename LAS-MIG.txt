@@ -1,0 +1,47 @@
+STOCKHOLMS FINSNICKERI – FÄRDIGA WEBBFILER
+
+Ladda upp hela innehållet i detta paket, inklusive assets-mappen.
+index.html ska ligga direkt i webbplatsens rot. Ingen installation krävs.
+
+GitHub Pages
+1. Lägg alla filer och assets-mappen i ditt repository.
+2. Aktivera Pages för rätt branch och rotmapp i repository-inställningarna.
+3. Alla interna länkar är relativa och fungerar även under ett repository-namn.
+
+Vanligt webbhotell
+Ladda upp innehållet till webbplatsens public_html eller motsvarande mapp.
+Spara en kopia av den tidigare webbplatsen innan den ersätts.
+
+INNEHÅLL
+Startsida, platsbyggt, bokhyllor, garderober, förvaring, specialinredning,
+galleri, material och kulörer, om snickeriet, arbetsprocess, kontakt,
+integritet och felsida.
+
+Kontaktknapparna öppnar telefon eller mejlprogram. Inget meddelande skickas
+automatiskt och ingen separat formulärtjänst behövs.
+
+SEO
+Sidtitlar, beskrivningar, rubriker, bildtexter, strukturerad företagsdata,
+brödsmulor, sitemap och robots.txt finns med. Canonical- och delningsadresser
+utgår från https://stockholmsfinsnickeri.com/ som slutlig företagsdomän.
+Om en annan slutlig domän väljs måste de adresserna uppdateras.
+Sitemap: https://stockholmsfinsnickeri.com/sitemap.xml
+När den nya sidan ersätter originalet bör gamla sökvägar omdirigeras vid behov.
+Sökplaceringar kan inte garanteras av webbplatsens kod.
+
+KÄLLOR
+Företagsinformation, projektbilder och logotyper kommer från företagets
+befintliga webbplats. Bilderna är lokala, optimerade och uppskalades inte.
+Google-betyget 5,0 och 39 recensioner kontrollerades 19 november 2026
+på https://g.co/kgs/fyufm4Q. Betyget är inte en automatisk widget och
+behöver uppdateras om det ändras. Citatet är ett utdrag ur Frida Anderssons
+publicerade Google-recension. Inga andra företags recensioner har använts.
+
+KONTROLLERAT
+13 sidor och 742 lokala filreferenser kontrollerade.
+Mobilmeny, gallerifilter, bildvisare, FAQ och kontaktlänkar kontrollerade.
+Layout kontrollerad vid 360, 390, 1280 och 1440 pixlars bredd.
+Webbplatsen använder lokala typsnitt och inga externa JavaScript-bibliotek.
+
+Ändring av sidan kräver inte Python. build.py utanför detta webbpaket är
+enbart ett hjälpmedel för att generera de färdiga HTML-filerna.
